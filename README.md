@@ -72,3 +72,6 @@ If you want to contact me you can reach me at <your_email@address.com>.
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [<license_name>](<link>).
+
+You can give any feedback here:-
+<any contact or email for receiving feedback>
